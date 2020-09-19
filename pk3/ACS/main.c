@@ -11,11 +11,11 @@ strict namespace
 		if(GetLevelInfo(LEVELINFO_LEVELNUM) == 99)
 		{
 			// tell lexicon to add the mapset with acronym "DOOM"
-			ACS_NamedExecute("Leixcon_AddMapSet", 0, "DOOM")
+			ACS_NamedExecute("Leixcon_AddMapSet", 0, "DOOM");
 
 			// repeat for each mapset in the expansion
-			//ACS_NamedExecute("Leixcon_AddMapSet", 0, "DOM2")
-			//ACS_NamedExecute("Leixcon_AddMapSet", 0, "MAYH")
+			//ACS_NamedExecute("Leixcon_AddMapSet", 0, "DOM2");
+			//ACS_NamedExecute("Leixcon_AddMapSet", 0, "MAYH");
 			//...
 		}
 	}
