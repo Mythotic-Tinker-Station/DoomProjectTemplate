@@ -18,3 +18,5 @@
 // DOOM:PREVIEW3	= "IMAGENAME"								// (optional) again (there can be a max of 32 previews for each mapset)
 // ...
 // DOOM:PREVIEW32	= "IMAGENAME"								// (optional) (there can be a max of 32 previews for each mapset)
+
+[default]
