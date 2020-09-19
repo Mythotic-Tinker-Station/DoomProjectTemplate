@@ -1,0 +1,20 @@
+
+
+
+
+
+
+// Too add a mapset do add the following information for lexicon to gather for each mapset
+// format: <acronym>:<key>
+//
+// DOOM:NAME		= "The Ultimate DOOM";						// The name of the mapset
+// DOOM:DESCRIPTION = "The original Doom maps.";				// A description of the mapset
+// DOOM:CREDITS		= "ID Software.";							// Who made the mapset
+// DOOM:MAPCOUNT	= "32";										// number of maps this mapset has
+// DOOM:STARTMAP	= "MAP01";									// the name of the first map of this mapset
+// DOOM:THUMBNAIL	= "IMAGENAME"								// an image to display for the voting UI(still being worked on
+// DOOM:PREVIEW1	= "IMAGENAME"								// (optional) an image to display as a preview
+// DOOM:PREVIEW2	= "IMAGENAME"								// (optional) again
+// DOOM:PREVIEW3	= "IMAGENAME"								// (optional) again (there can be a max of 32 previews for each mapset)
+// ...
+// DOOM:PREVIEW32	= "IMAGENAME"								// (optional) (there can be a max of 32 previews for each mapset)
